@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/cloudinary-utils.svg)](https://www.npmjs.com/package/@philiprehberger/cloudinary-utils)
 [![License](https://img.shields.io/github/license/philiprehberger/cloudinary-utils)](LICENSE)
 
-Cloudinary image URL builder, srcset generation, and blur placeholders.
+Cloudinary image URL builder, srcset generation, and blur placeholders
 
 ## Installation
 
