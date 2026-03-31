@@ -1,9 +1,8 @@
 # @philiprehberger/cloudinary-utils
 
-[![CI](https://github.com/philiprehberger/ts-cloudinary-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-cloudinary-utils/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/cloudinary-utils.svg)](https://www.npmjs.com/package/@philiprehberger/cloudinary-utils)
-[![License](https://img.shields.io/github/license/philiprehberger/ts-cloudinary-utils)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/cloudinary-utils)](https://github.com/philiprehberger/cloudinary-utils/commits/main)
 
 Cloudinary image URL builder, srcset generation, and blur placeholders
 
@@ -81,7 +80,6 @@ const gradient = gradientPlaceholder('#f0f0f0', '#e0e0e0', 'diagonal');
 | `gradientPlaceholder(from, to, direction?)` | Gradient placeholder. Directions: `'horizontal'` `'vertical'` `'diagonal'`. |
 | `placeholders` | Static object with `gray`, `white`, `dark`, `transparent` 1px PNGs. |
 
-
 ## Development
 
 ```bash
@@ -90,6 +88,24 @@ npm run build
 npm test
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/cloudinary-utils)
+
+🐛 [Report issues](https://github.com/philiprehberger/cloudinary-utils/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/cloudinary-utils/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
